@@ -4,3 +4,4 @@ welcome.onshow=function(){
   lblMessage.backgroundColor = "#ADD8E6"
 }
 */
+
