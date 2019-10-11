@@ -1,4 +1,4 @@
-
+/*
 var members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden","Kurt","Anne"]
 
 checkButton.onclick=function(){
@@ -9,3 +9,4 @@ checkButton.onclick=function(){
     memberMsg.value = "You were not a member but have been added to the list!"
     }
 }
+*/
